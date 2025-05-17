@@ -10,7 +10,7 @@
       "developerName": "Mojang AB",
       "version": "1.21.81",
       "versionDate": "2025-05-16T00:00:00Z",
-      "versionDescription": "Latest update: New mobs, biomes, and bug fixes!",
+      "versionDescription": "Latest update: New flying pandas, Canyon biome, and multiplayer optimizations!",
       "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-21-81-2/Minecraft-v1.21.81.ipa",
       "localizedDescription": "Explore infinite worlds in Minecraft PE! Build, mine, battle mobs, and team up with friends in this blocky sandbox adventure.",
       "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/Minecraft.png",
@@ -28,7 +28,9 @@
       ],
       "screenshotURLs": [
         "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft1.jpg",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft2.jpg"
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft2.jpg",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft3.jpg",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft4.jpg"
       ]
     }
   ]
