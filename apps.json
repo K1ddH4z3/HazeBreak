@@ -3,7 +3,11 @@
   "identifier": "com.hazebreak.altstorerepo",
   "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/repo-icon.png",
   "tintColor": "00BFFF",
-  "subtitle": "A curated collection of awesome apps 🎮",
+  "subtitle": "🚀 The best apps for iOS • No jailbreak needed ✨",
+  "headerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/repo-header.png",
+  "accentColor": "FF5F5F",
+  "appSectionTitle": "🌟 Featured Apps",
+  "footerText": "Updated daily • Follow @HazeBreak on Twitter",
   "apps": [
     {
       "name": "Minecraft",
@@ -11,14 +15,17 @@
       "developerName": "Mojang AB",
       "version": "1.21.81",
       "versionDate": "2025-05-16T00:00:00Z",
-      "versionDescription": "The latest version of Minecraft Bedrock Edition (PE) is 1.21.81! 🌟 This update introduces exciting new features, including the 'Spring Arrives' theme with environmental effects like falling leaves 🍃, grass in deserts 🌵, and other immersive details. Cartographer villagers now offer new maps to locate villages and special points of interest 🗺️, while the wandering trader has refreshed their catalog 🎪. Magnetite can now be crafted with iron ⚙️.",
+      "versionDescription": "The **1.21.81** update brings exciting new features! 🎉\n\n✨ **Tricky Trials Mode**: New creatures 🦔, decorative blocks 🧱, weapons ⚔️, and challenge rooms with traps and treasures 💎.\n🌿 **Environmental Changes**: Falling leaves 🍃, desert grass 🌵, leaf litter, wildflowers 🌸, bushes, and fireflies ✨.",
       "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-21-81-2/Minecraft-v1.21.81.ipa",
       "localizedDescription": "Explore infinite worlds in Minecraft PE! Build, mine, battle mobs, and team up with friends in this blocky sandbox adventure. 🌍⛏️🐉",
       "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/Minecraft.png",
       "tintColor": "5CD65C",
+      "bannerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/minecraft-banner.png",
       "size": 265000000,
       "sizeReadable": "265 MB",
       "price": "Free",
+      "badge": "UPDATED",
+      "isFeatured": true,
       "permissions": [
         {
           "type": "photos",
@@ -34,6 +41,43 @@
         "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft2.jpg",
         "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft3.jpg",
         "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft4.jpg"
+      ]
+    },
+    {
+      "name": "Spotify++ (EeveeSpotify)",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify Ltd (Mod by Eevee)",
+      "version": "5.9.7-9.0.42",
+      "versionDate": "2025-05-17T00:00:00Z",
+      "versionDescription": "🔥 **Latest Mod Features**:\n- Full Premium Unlock (No ads, unlimited skips) 🎵\n- Extreme Audio Quality (320kbps) 🔈\n- On-Demand Playback & Downloads 📥\n- Bypass Regional Restrictions 🌍\n- iOS 17+ Supported 📱",
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.42.ipa",
+      "localizedDescription": "Experience Spotify Premium for FREE! 🎧✨ This mod unlocks:\n\n• Ad-free music streaming 🚫\n• Unlimited song skips ⏭️\n• Download songs for offline play 📥\n• Highest audio quality 🔈\n• No regional locks 🌎\n\n⚠️ Note: Use a burner account. Some features may require Spotify updates.",
+      "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/Spotify.png",
+      "tintColor": "1DB954",
+      "bannerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/spotify-banner.png",
+      "size": 150000000,
+      "sizeReadable": "150 MB",
+      "price": "Free",
+      "badge": "PREMIUM",
+      "isFeatured": true,
+      "permissions": [
+        {
+          "type": "media",
+          "usage": "Background audio playback 🎶"
+        },
+        {
+          "type": "network",
+          "usage": "Streaming and downloads 🌐"
+        },
+        {
+          "type": "localStorage",
+          "usage": "Offline music storage 💾"
+        }
+      ],
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify1.png",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify2.png",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify3.png"
       ]
     }
   ]
