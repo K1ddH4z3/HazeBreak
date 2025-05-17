@@ -3,6 +3,7 @@
   "identifier": "com.hazebreak.altstorerepo",
   "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/repo-icon.png",
   "tintColor": "00BFFF",
+  "subtitle": "A curated collection of awesome apps 🎮",
   "apps": [
     {
       "name": "Minecraft",
@@ -10,20 +11,22 @@
       "developerName": "Mojang AB",
       "version": "1.21.81",
       "versionDate": "2025-05-16T00:00:00Z",
-      "versionDescription": "Latest update: New flying pandas, Canyon biome, and multiplayer optimizations!",
+      "versionDescription": "The latest version of Minecraft Bedrock Edition (PE) is 1.21.81! 🌟 This update introduces exciting new features, including the 'Spring Arrives' theme with environmental effects like falling leaves 🍃, grass in deserts 🌵, and other immersive details. Cartographer villagers now offer new maps to locate villages and special points of interest 🗺️, while the wandering trader has refreshed their catalog 🎪. Magnetite can now be crafted with iron ⚙️.",
       "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-21-81-2/Minecraft-v1.21.81.ipa",
-      "localizedDescription": "Explore infinite worlds in Minecraft PE! Build, mine, battle mobs, and team up with friends in this blocky sandbox adventure.",
+      "localizedDescription": "Explore infinite worlds in Minecraft PE! Build, mine, battle mobs, and team up with friends in this blocky sandbox adventure. 🌍⛏️🐉",
       "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/Minecraft.png",
       "tintColor": "5CD65C",
       "size": 265000000,
+      "sizeReadable": "265 MB",
+      "price": "Free",
       "permissions": [
         {
           "type": "photos",
-          "usage": "For saving screenshots"
+          "usage": "For saving screenshots 📸"
         },
         {
           "type": "network",
-          "usage": "Multiplayer and Realms"
+          "usage": "Multiplayer and Realms 🌐"
         }
       ],
       "screenshotURLs": [
