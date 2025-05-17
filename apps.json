@@ -1,0 +1,33 @@
+{
+  "name": "HazeBreak Minecraft Repo",
+  "identifier": "com.hazebreak.altstorerepo",
+  "apps": [
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang AB",
+      "version": "1.21.81",
+      "versionDate": "2025-05-16",
+      "versionDescription": "Official Minecraft Pocket Edition with latest features",
+      "downloadURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/apps/Minecraft.ipa",
+      "localizedDescription": "Explore infinite worlds in Minecraft PE! Build, mine, battle mobs, and team up with friends in this blocky sandbox adventure. Includes all v1.21.81 features!",
+      "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/minecraft.png",
+      "tintColor": "5CD65C",
+      "size": 265000000,
+      "permissions": [
+        {
+          "type": "photos",
+          "usage": "For saving screenshots"
+        },
+        {
+          "type": "network",
+          "usage": "Multiplayer and Realms"
+        }
+      ],
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft1.jpg",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft2.jpg"
+      ]
+    }
+  ]
+}
