@@ -1,6 +1,8 @@
 {
-  "name": "HazeBreak Minecraft Repo",
+  "name": "HazeBreak",
   "identifier": "com.hazebreak.altstorerepo",
+  "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/repo-icon.png",
+  "tintColor": "00BFFF",
   "apps": [
     {
       "name": "Minecraft",
