@@ -61,7 +61,7 @@
       "bannerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/spotify-banner.png",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify1.png",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify2.png"
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify2.png",
         "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify3.png"
       ],
       "localizedDescription": "🎧 Premium Unlocked!\nAd-free • Unlimited skips • Downloads",
@@ -69,13 +69,68 @@
       "permissions": [
         {
           "type": "media",
-          "usage": "Background playback",
+          "usage": "Background audio playback",
           "required": true
         },
         {
           "type": "network",
           "usage": "Streaming & downloads",
           "required": true
+        },
+        {
+          "type": "photos",
+          "usage": "Save playlist covers",
+          "required": false
+        },
+        {
+          "type": "bluetooth",
+          "usage": "Connect to audio devices",
+          "required": false
+        },
+        {
+          "type": "appleMusic",
+          "usage": "Access your music library",
+          "required": false
+        },
+        {
+          "type": "localNetwork",
+          "usage": "Connect to other devices",
+          "required": false
+        },
+        {
+          "type": "microphone",
+          "usage": "Voice commands",
+          "required": false
+        }
+      ],
+      "entitlements": [
+        {
+          "type": "appGroups",
+          "groups": ["group.com.spotify"]
+        },
+        {
+          "type": "associatedDomains",
+          "domains": ["applinks:spotify.com"]
+        },
+        {
+          "type": "carPlay",
+          "usage": "Audio playback in vehicles"
+        },
+        {
+          "type": "gameCenter",
+          "usage": "Social features"
+        },
+        {
+          "type": "pushNotifications",
+          "environment": "production"
+        },
+        {
+          "type": "keychainAccess",
+          "groups": ["com.spotify.keychain"]
+        },
+        {
+          "type": "signInWithApple",
+          "usage": "Account authentication"
         }
       ],
       "price": "Free",
