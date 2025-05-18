@@ -3,44 +3,82 @@
   "identifier": "com.hazebreak.altstorerepo",
   "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/repo-icon.png",
   "tintColor": "00BFFF",
-  "subtitle": "Premium Apps - No Jailbreak",
+  "subtitle": "🚀 Premium Apps - No Jailbreak Needed",
   "headerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/repo-banner.png",
+  "accentColor": "FF5F5F",
+  "appSectionTitle": "🌟 Featured Apps",
+  "footerText": "Updated regularly • Follow @HazeBreak",
   "apps": [
     {
       "name": "Minecraft",
       "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "Mojang AB",
       "version": "1.21.81",
-      "versionDate": "2025-05-16",
+      "versionDate": "2025-05-16T00:00:00Z",
       "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-21-81-2/Minecraft-v1.21.81.ipa",
-      "localizedDescription": "Explore infinite worlds and build anything you can imagine",
+      "size": 557183142,
+      "sizeReadable": "531 MB",
       "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/Minecraft.png",
       "tintColor": "5CD65C",
-      "size": 557183142,
+      "bannerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/minecraft-banner.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft1.jpg",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft2.jpg"
+      ],
+      "localizedDescription": "✨ Craft Your Universe! Infinite worlds await your creativity. Build solo or with friends!",
+      "versionDescription": "🔥 New in 1.21.81:\n• Tricky Trials challenges 🏰\n• Dynamic weather effects 🌦️\n• Enhanced multiplayer",
       "permissions": [
         {
           "type": "photos",
-          "usage": "Save screenshots"
+          "usage": "Save/Load worlds & screenshots",
+          "required": true
+        },
+        {
+          "type": "microphone",
+          "usage": "Voice chat (optional)",
+          "required": false
+        },
+        {
+          "type": "localNetwork",
+          "usage": "LAN multiplayer",
+          "required": false
         }
-      ]
+      ],
+      "price": "Free",
+      "badge": "UPDATED"
     },
     {
-      "name": "Spotify++",
+      "name": "Spotify++ (EeveeSpotify)",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify Ltd",
       "version": "9.0.42",
-      "versionDate": "2024-06-10",
+      "versionDate": "2024-06-10T00:00:00Z",
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.42.ipa",
-      "localizedDescription": "Premium features unlocked - ad-free music",
+      "size": 85016193,
+      "sizeReadable": "85 MB",
       "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/Spotify.png",
       "tintColor": "1ED760",
-      "size": 85016193,
+      "bannerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/spotify-banner.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify1.png",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify2.png"
+      ],
+      "localizedDescription": "🎧 Premium Unlocked!\nAd-free • Unlimited skips • Downloads",
+      "versionDescription": "🚀 Mod Features:\n• 320kbps audio\n• No forced shuffle\n• Lyrics unlocked",
       "permissions": [
         {
           "type": "media",
-          "usage": "Play music"
+          "usage": "Background playback",
+          "required": true
+        },
+        {
+          "type": "network",
+          "usage": "Streaming & downloads",
+          "required": true
         }
-      ]
+      ],
+      "price": "Free",
+      "badge": "PREMIUM"
     }
   ]
 }
