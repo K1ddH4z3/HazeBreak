@@ -27,25 +27,14 @@
       ],
       "localizedDescription": "✨ Craft Your Universe! Infinite worlds await your creativity. Build solo or with friends!",
       "versionDescription": "🔥 New in 1.21.81:\n• Tricky Trials challenges 🏰\n• Dynamic weather effects 🌦️\n• Enhanced multiplayer",
-      "permissions": [
-        {
-          "type": "photos",
-          "usage": "Save/Load worlds & screenshots",
-          "required": true
-        },
-        {
-          "type": "microphone",
-          "usage": "Voice chat (optional)",
-          "required": false
-        },
-        {
-          "type": "localNetwork",
-          "usage": "LAN multiplayer",
-          "required": false
-        }
-      ],
-      "price": "Free",
-      "badge": "UPDATED"
+      "permissions": {
+        "NSCameraUsageDescription": "Used for Live Broadcast",
+        "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+        "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+        "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+        "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+        "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network to play with others.",
+        "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
     },
     {
       "name": "Spotify++ (EeveeSpotify)",
@@ -66,75 +55,22 @@
       ],
       "localizedDescription": "🎧 Premium Unlocked!\nAd-free • Unlimited skips • Downloads",
       "versionDescription": "🚀 Mod Features:\n• 320kbps audio\n• No forced shuffle\n• Lyrics unlocked",
-      "permissions": [
-        {
-          "type": "media",
-          "usage": "Background audio playback",
-          "required": true
-        },
-        {
-          "type": "network",
-          "usage": "Streaming & downloads",
-          "required": true
-        },
-        {
-          "type": "photos",
-          "usage": "Save playlist covers",
-          "required": false
-        },
-        {
-          "type": "bluetooth",
-          "usage": "Connect to audio devices",
-          "required": false
-        },
-        {
-          "type": "appleMusic",
-          "usage": "Access your music library",
-          "required": false
-        },
-        {
-          "type": "localNetwork",
-          "usage": "Connect to other devices",
-          "required": false
-        },
-        {
-          "type": "microphone",
-          "usage": "Voice commands",
-          "required": false
-        }
-      ],
-      "entitlements": [
-        {
-          "type": "appGroups",
-          "groups": ["group.com.spotify"]
-        },
-        {
-          "type": "associatedDomains",
-          "domains": ["applinks:spotify.com"]
-        },
-        {
-          "type": "carPlay",
-          "usage": "Audio playback in vehicles"
-        },
-        {
-          "type": "gameCenter",
-          "usage": "Social features"
-        },
-        {
-          "type": "pushNotifications",
-          "environment": "production"
-        },
-        {
-          "type": "keychainAccess",
-          "groups": ["com.spotify.keychain"]
-        },
-        {
-          "type": "signInWithApple",
-          "usage": "Account authentication"
-        }
-      ],
-      "price": "Free",
-      "badge": "PREMIUM"
+        "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+        "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+        "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+        "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+        "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+        "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+        "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+        "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
+        "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+        "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+        "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+        "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+        "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+        "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+        "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify."
+      }
     }
   ]
 }
