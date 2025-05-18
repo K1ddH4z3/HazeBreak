@@ -80,9 +80,9 @@
         }
       ],
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify1.jpg",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify2.jpg",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify3.jpg"
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify1.png",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify2.png",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify3.png"
       ],
       "minOSVersion": "15.0"  // MinimumOSVersion dal plist
     }
