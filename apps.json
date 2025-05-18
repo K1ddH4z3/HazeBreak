@@ -46,12 +46,13 @@
     {
       "name": "Spotify++ (EeveeSpotify)",
       "bundleIdentifier": "com.spotify.client",
-      "developerName": "Spotify Ltd (Mod by Eevee)",
-      "version": "5.9.7-9.0.42",
+      "developerName": "Eevee Team",
+      "version": "9.0.42",  // CFBundleShortVersionString
+      "buildNumber": "904200587",  // CFBundleVersion (opzionale)
       "versionDate": "2025-05-17T00:00:00Z",
-      "versionDescription": "🔥 **Latest Mod Features**:\n- Full Premium Unlock (No ads, unlimited skips) 🎵\n- Extreme Audio Quality (320kbps) 🔈\n- On-Demand Playback & Downloads 📥\n- Bypass Regional Restrictions 🌍\n- iOS 17+ Supported 📱",
+      "versionDescription": "🔥 **Premium Unlocked**:\n- No ads 🚫\n- Unlimited skips ⏭️\n- Extreme audio quality (320kbps) 🔈\n- On-demand playback & downloads 📥\n- Decrypted by EeveeDecrypter 🔓",
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.42.ipa",
-      "localizedDescription": "Experience Spotify Premium for FREE! 🎧✨ This mod unlocks:\n\n• Ad-free music streaming 🚫\n• Unlimited song skips ⏭️\n• Download songs for offline play 📥\n• Highest audio quality 🔈\n• No regional locks 🌎\n\n⚠️ Note: Use a burner account. Some features may require Spotify updates.",
+      "localizedDescription": "Enjoy Spotify Premium for free! 🎧✨ Ad-free music, unlimited skips, and offline downloads. (Use a burner account.)\n\n🔐 **Note**: Modded by EeveeDecrypter (v9.0.42.587).",
       "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/Spotify.png",
       "tintColor": "1DB954",
       "bannerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/spotify-banner.png",
@@ -63,7 +64,7 @@
       "permissions": [
         {
           "type": "media",
-          "usage": "Background audio playback 🎶"
+          "usage": "Background playback 🎶"
         },
         {
           "type": "network",
@@ -72,13 +73,18 @@
         {
           "type": "localStorage",
           "usage": "Offline music storage 💾"
+        },
+        {
+          "type": "bluetooth",
+          "usage": "Connect to devices 🎧"
         }
       ],
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify1.png",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify2.png",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify3.png"
-      ]
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify1.jpg",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify2.jpg",
+        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify3.jpg"
+      ],
+      "minOSVersion": "15.0"  // MinimumOSVersion dal plist
     }
   ]
 }
