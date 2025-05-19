@@ -35,6 +35,7 @@
         "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
         "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network to play with others.",
         "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+      }
     },
     {
       "name": "Spotify++ (EeveeSpotify)",
@@ -55,6 +56,7 @@
       ],
       "localizedDescription": "🎧 Premium Unlocked!\nAd-free • Unlimited skips • Downloads",
       "versionDescription": "🚀 Mod Features:\n• 320kbps audio\n• No forced shuffle\n• Lyrics unlocked",
+      "permissions": {
         "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
         "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
         "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
