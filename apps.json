@@ -1,10 +1,10 @@
 {
   "name": "HazeBreak",
   "identifier": "com.hazebreak.altstorerepo",
-  "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/repo-icon.png",
+  "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/repo-icon.png",
   "tintColor": "00BFFF",
   "subtitle": "🚀 Premium Apps - No Jailbreak Needed",
-  "headerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/repo-banner.png",
+  "headerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/repo-banner.png",
   "accentColor": "FF5F5F",
   "appSectionTitle": "🌟 Featured Apps",
   "footerText": "Updated regularly • Follow @HazeBreak",
@@ -18,12 +18,12 @@
       "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-21-81-2/Minecraft-v1.21.81.ipa",
       "size": 557183142,
       "sizeReadable": "531 MB",
-      "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/Minecraft.png",
+      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/Minecraft.png",
       "tintColor": "5CD65C",
-      "bannerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/minecraft-banner.png",
+      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/minecraft-banner.png",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft1.jpg",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/minecraft2.jpg"
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/minecraft1.jpg",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/minecraft2.jpg"
       ],
       "localizedDescription": "✨ Craft Your Universe! Infinite worlds await your creativity. Build solo or with friends!",
       "versionDescription": "🔥 New in 1.21.81:\n• Tricky Trials challenges 🏰\n• Dynamic weather effects 🌦️\n• Enhanced multiplayer",
@@ -46,13 +46,13 @@
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.42.ipa",
       "size": 85016193,
       "sizeReadable": "85 MB",
-      "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/Spotify.png",
+      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/Spotify.png",
       "tintColor": "1ED760",
-      "bannerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/spotify-banner.png",
+      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/spotify-banner.png",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify1.png",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify2.png",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/spotify3.png"
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify1.png",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify2.png",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify3.png"
       ],
       "localizedDescription": "🎧 Premium Unlocked!\nAd-free • Unlimited skips • Downloads",
       "versionDescription": "🚀 Mod Features:\n• 320kbps audio\n• No forced shuffle\n• Lyrics unlocked",
@@ -83,13 +83,13 @@
       "downloadURL": "https://dl.iosvizor.net/grand-theft-auto-liberty-city-stories/GTA-Liberty-City-Stories-v2.4.150-iosvizor.ipa",
       "size": 1845493760,
       "sizeReadable": "1.84 GB",
-      "iconURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/icons/GTALCS.png",
+      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/GTALCS.png",
       "tintColor": "FF4500",
-      "bannerImageURL": "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/banners/gtalcs-banner.png",
+      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/gtalcs-banner.png",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/gtalcs1.jpg",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/gtalcs2.jpg",
-        "https://raw.githubusercontent.com/Light-YT/HazeBreak/main/screenshots/gtalcs3.jpg"
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs1.jpg",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs2.jpg",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs3.jpg"
       ],
       "localizedDescription": "🏙️ Return to Liberty City! The classic GTA experience optimized for mobile. Open-world crime adventure with enhanced graphics and controls.",
       "versionDescription": "🎮 What's New in 2.4.150:\n• Full iOS 16+ compatibility\n• Improved controller support\n• Fixed mission progression bugs\n• Enhanced lighting effects",
