@@ -1,10 +1,10 @@
 {
   "name": "HazeBreak",
   "identifier": "com.hazebreak.altstorerepo",
-  "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/repo-icon.png",
+  "iconURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/icons/repo-icon.png?raw=true",
   "tintColor": "00BFFF",
   "subtitle": "🚀 Premium Apps - No Jailbreak Needed",
-  "headerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/repo-banner.png",
+  "headerImageURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/banners/repo-banner.png?raw=true",
   "accentColor": "FF5F5F",
   "appSectionTitle": "🌟 Featured Apps",
   "footerText": "Updated regularly • Follow @HazeBreak",
@@ -18,15 +18,15 @@
       "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-21-81-2/Minecraft-v1.21.81.ipa",
       "size": 557183142,
       "sizeReadable": "531 MB",
-      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/Minecraft.png",
+      "iconURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/icons/Minecraft.png?raw=true",
       "tintColor": "5CD65C",
-      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/minecraft-banner.png",
+      "bannerImageURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/banners/minecraft-banner.png?raw=true",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/minecraft1.jpg",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/minecraft2.jpg"
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/minecraft1.jpg?raw=true",
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/minecraft2.jpg?raw=true"
       ],
       "localizedDescription": "✨ Craft Your Universe! Infinite worlds await your creativity. Build solo or with friends!",
-      "versionDescription": "🔥 New in 1.21.81:\n• Tricky Trials challenges 🏰\n• Dynamic weather effects 🌦️\n• Enhanced multiplayer",
+      "versionDescription": "🔥 New in 1.21.81:\n• Tricky Trials challenges �\n• Dynamic weather effects 🌦️\n• Enhanced multiplayer",
       "permissions": {
         "NSCameraUsageDescription": "Used for Live Broadcast",
         "NSMicrophoneUsageDescription": "Used for Live Broadcast",
@@ -46,13 +46,13 @@
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.42.ipa",
       "size": 85016193,
       "sizeReadable": "85 MB",
-      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/Spotify.png",
+      "iconURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/icons/Spotify.png?raw=true",
       "tintColor": "1ED760",
-      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/spotify-banner.png",
+      "bannerImageURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/banners/spotify-banner.png?raw=true",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify1.png",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify2.png",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify3.png"
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/spotify1.png?raw=true",
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/spotify2.png?raw=true",
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/spotify3.png?raw=true"
       ],
       "localizedDescription": "🎧 Premium Unlocked!\nAd-free • Unlimited skips • Downloads",
       "versionDescription": "🚀 Mod Features:\n• 320kbps audio\n• No forced shuffle\n• Lyrics unlocked",
@@ -83,13 +83,13 @@
       "downloadURL": "https://dl.iosvizor.net/grand-theft-auto-liberty-city-stories/GTA-Liberty-City-Stories-v2.4.150-iosvizor.ipa",
       "size": 1845493760,
       "sizeReadable": "1.84 GB",
-      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/GTALCS.png",
+      "iconURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/icons/GTALCS.png?raw=true",
       "tintColor": "FF4500",
-      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/gtalcs-banner.png",
+      "bannerImageURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/banners/gtalcs-banner.png?raw=true",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs1.jpg",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs2.jpg",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs3.jpg"
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/gtalcs1.jpg?raw=true",
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/gtalcs2.jpg?raw=true",
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/gtalcs3.jpg?raw=true"
       ],
       "localizedDescription": "🏙️ Return to Liberty City! The classic GTA experience optimized for mobile. Open-world crime adventure with enhanced graphics and controls.",
       "versionDescription": "🎮 What's New in 2.4.150:\n• Full iOS 16+ compatibility\n• Improved controller support\n• Fixed mission progression bugs\n• Enhanced lighting effects",
@@ -98,6 +98,32 @@
         "NSMicrophoneUsageDescription": "Used for voice chat in multiplayer modes",
         "NSLocalNetworkUsageDescription": "Used for local multiplayer functionality",
         "NSBluetoothAlwaysUsageDescription": "Required for connecting game controllers"
+      }
+    },
+    {
+      "name": "Bully: Anniversary Edition",
+      "bundleIdentifier": "com.rockstargames.bully",
+      "developerName": "Rockstar Games",
+      "version": "1.1",
+      "versionDate": "2023-12-20T00:00:00Z",
+      "downloadURL": "https://dl.iosvizor.net/bully-anniversary-edition/Bully-Anniversary-Edition-v1-1.ipa",
+      "size": 2432696320,
+      "sizeReadable": "2.43 GB",
+      "iconURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/icons/Bully.png?raw=true",
+      "tintColor": "FF8C00",
+      "bannerImageURL": "https://github.com/K1ddH4z3/HazeBreak/blob/main/banners/bully-banner.png?raw=true",
+      "screenshotURLs": [
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/bully1.jpg?raw=true",
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/bully2.jpg?raw=true",
+        "https://github.com/K1ddH4z3/HazeBreak/blob/main/screenshots/bully3.jpg?raw=true"
+      ],
+      "localizedDescription": "🏫 Rule the School! The cult classic returns with HD graphics, improved controls, and new content. Survive the chaos of Bullworth Academy!",
+      "versionDescription": "📚 Anniversary Edition Features:\n• Remastered visuals and textures\n• Enhanced lighting and shadows\n• Optimized for modern iOS devices\n• New missions and collectibles",
+      "permissions": {
+        "NSPhotoLibraryUsageDescription": "Allows saving in-game screenshots",
+        "NSMicrophoneUsageDescription": "Used for voice interactions during gameplay",
+        "NSLocalNetworkUsageDescription": "Required for local multiplayer features",
+        "NSBluetoothAlwaysUsageDescription": "Used for connecting external controllers"
       }
     }
   ]
