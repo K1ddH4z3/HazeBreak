@@ -1,7 +1,7 @@
 {
   "name": "HazeBreak",
   "identifier": "com.hazebreak.altstorerepo",
-  "sourceURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/repo.json",
+  "sourceURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/apps.json",
   "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/repo-icon.png",
   "tintColor": "00BFFF",
   "subtitle": "🚀 Premium Apps - No Jailbreak Needed",
@@ -67,62 +67,11 @@
         "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
       },
       "beta": false
-    },
-    {
-      "name": "Grand Theft Auto: Liberty City Stories",
-      "bundleIdentifier": "com.rockstargames.gtalcs",
-      "developerName": "Rockstar Games",
-      "version": "2.4.150",
-      "versionDate": "2024-03-15T00:00:00Z",
-      "versionDescription": "🎮 What's New in 2.4.150:\n• Full iOS 16+ compatibility\n• Improved controller support\n• Fixed mission progression bugs",
-      "downloadURL": "https://dl.iosvizor.net/grand-theft-auto-liberty-city-stories/GTA-Liberty-City-Stories-v2.4.150-iosvizor.ipa",
-      "size": 1845493760,
-      "localizedDescription": "🌟 Return to Liberty City! The classic GTA experience optimized for mobile. Open-world crime adventure with enhanced graphics and controls.",
-      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/GTALCS.png",
-      "tintColor": "FF4500",
-      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/gtalcs-banner.png",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs1.jpg",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs2.jpg",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs3.jpg"
-      ],
-      "permissions": {
-        "NSPhotoLibraryUsageDescription": "Allows saving screenshots from the game",
-        "NSMicrophoneUsageDescription": "Used for voice chat in multiplayer modes",
-        "NSLocalNetworkUsageDescription": "Used for local multiplayer functionality",
-        "NSBluetoothAlwaysUsageDescription": "Required for connecting game controllers"
-      },
-      "beta": false
-    },
-    {
-      "name": "Bully: Anniversary Edition",
-      "bundleIdentifier": "com.rockstargames.bully",
-      "developerName": "Rockstar Games",
-      "version": "1.1",
-      "versionDate": "2023-12-20T00:00:00Z",
-      "versionDescription": "📚 Anniversary Edition Features:\n• Remastered visuals and textures\n• Enhanced lighting and shadows\n• Optimized for modern iOS devices",
-      "downloadURL": "https://dl.iosvizor.net/bully-anniversary-edition/Bully-Anniversary-Edition-v1-1.ipa",
-      "size": 2432696320,
-      "localizedDescription": "🏫 Rule the School! The cult classic returns with HD graphics, improved controls, and new content. Survive the chaos of Bullworth Academy!",
-      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/Bully.png",
-      "tintColor": "FF8C00",
-      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/bully-banner.png",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/bully1.jpg",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/bully2.jpg",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/bully3.jpg"
-      ],
-      "permissions": {
-        "NSPhotoLibraryUsageDescription": "Allows saving in-game screenshots",
-        "NSMicrophoneUsageDescription": "Used for voice interactions during gameplay",
-        "NSLocalNetworkUsageDescription": "Required for local multiplayer features",
-        "NSBluetoothAlwaysUsageDescription": "Used for connecting external controllers"
-      },
-      "beta": false
     }
   ],
   "news": [
     {
+      "identifier": "upcoming-june-2025",
       "title": "New Apps Coming Soon!",
       "date": "2025-06-01",
       "caption": "Stay tuned for more premium apps and games.",
