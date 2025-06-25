@@ -1,73 +1,133 @@
 {
   "name": "HazeBreak",
   "identifier": "com.hazebreak.altstorerepo",
-  "sourceURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/apps.json",
-  "website": "https://github.com/K1ddH4z3/HazeBreak",
+  "sourceURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/repo.json",
   "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/repo-icon.png",
   "tintColor": "00BFFF",
-  "subtitle": "Premium tweaked apps - No jailbreak needed 🚀",
-  "headerImage": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/repo-banner.png",
+  "subtitle": "🚀 Premium Apps - No Jailbreak Needed",
+  "headerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/repo-banner.png",
+  "accentColor": "FF5F5F",
+  "appSectionTitle": "🌟 Featured Apps",
+  "footerText": "Updated regularly • Follow @HazeBreak",
   "apps": [
     {
-      "name": "Minecraft Premium",
+      "name": "Minecraft",
       "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "Mojang AB",
       "version": "1.21.81",
-      "versionDate": "2025-05-16",
-      "versionDescription": "New in 1.21.81 ⚡\n• Unlocked skin editor ✨\n• Dynamic weather effects 🌦️\n• Enhanced multiplayer 👥",
+      "versionDate": "2025-05-16T00:00:00Z",
+      "versionDescription": "🔥 New in 1.21.81:\n• Tricky Trials challenges\n• Dynamic weather effects\n• Enhanced multiplayer",
       "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-21-81-2/Minecraft-v1.21.81.ipa",
-      "localizedDescription": "All premium features unlocked 💎\n• Unlimited skin customization 🎨\n• Free texture packs 🖼️\n• No account required 🔓",
+      "size": 557183142,
+      "localizedDescription": "✨ Craft Your Universe! Infinite worlds await your creativity. Build solo or with friends!",
       "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/Minecraft.png",
       "tintColor": "5CD65C",
-      "size": 557183142,
+      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/minecraft-banner.png",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/minecraft1.jpg",
         "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/minecraft2.jpg"
       ],
-      "permissions": [
-        {
-          "type": "camera",
-          "usage": "For skin scanning 📷"
-        },
-        {
-          "type": "photos",
-          "usage": "Saving custom skins 🖼️"
-        }
-      ],
-      "beta": false,
-      "featured": true
+      "permissions": {
+        "NSCameraUsageDescription": "Used for Live Broadcast",
+        "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+        "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+        "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+        "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+        "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network to play with others.",
+        "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+      },
+      "beta": false
     },
     {
-      "name": "Spotify++",
+      "name": "Spotify++ (EeveeSpotify)",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify Ltd",
       "version": "9.0.42",
-      "versionDate": "2024-06-10",
-      "versionDescription": "Mod features 🔥\n• 320kbps audio quality 🎧\n• Unlimited skips ⏭️\n• No ads 🚫",
+      "versionDate": "2024-06-10T00:00:00Z",
+      "versionDescription": "🚀 Mod Features:\n• 320kbps audio\n• No forced shuffle\n• Lyrics unlocked",
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.42.ipa",
-      "localizedDescription": "Premium unlocked ⚡\n• Download songs 💾\n• No shuffle mode 🔀\n• Always-on lyrics 📝",
+      "size": 85016193,
+      "localizedDescription": "🎷 Premium Unlocked!\nAd-free • Unlimited skips • Downloads",
       "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/Spotify.png",
       "tintColor": "1ED760",
-      "size": 85016193,
+      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/spotify-banner.png",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify1.png",
-        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify2.png"
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify2.png",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/spotify3.png"
       ],
-      "permissions": [
-        {
-          "type": "microphone",
-          "usage": "Voice commands 🎤"
-        }
-      ]
+      "permissions": {
+        "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+        "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+        "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+        "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+        "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+        "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+        "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+        "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+      },
+      "beta": false
+    },
+    {
+      "name": "Grand Theft Auto: Liberty City Stories",
+      "bundleIdentifier": "com.rockstargames.gtalcs",
+      "developerName": "Rockstar Games",
+      "version": "2.4.150",
+      "versionDate": "2024-03-15T00:00:00Z",
+      "versionDescription": "🎮 What's New in 2.4.150:\n• Full iOS 16+ compatibility\n• Improved controller support\n• Fixed mission progression bugs",
+      "downloadURL": "https://dl.iosvizor.net/grand-theft-auto-liberty-city-stories/GTA-Liberty-City-Stories-v2.4.150-iosvizor.ipa",
+      "size": 1845493760,
+      "localizedDescription": "🌟 Return to Liberty City! The classic GTA experience optimized for mobile. Open-world crime adventure with enhanced graphics and controls.",
+      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/GTALCS.png",
+      "tintColor": "FF4500",
+      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/gtalcs-banner.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs1.jpg",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs2.jpg",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/gtalcs3.jpg"
+      ],
+      "permissions": {
+        "NSPhotoLibraryUsageDescription": "Allows saving screenshots from the game",
+        "NSMicrophoneUsageDescription": "Used for voice chat in multiplayer modes",
+        "NSLocalNetworkUsageDescription": "Used for local multiplayer functionality",
+        "NSBluetoothAlwaysUsageDescription": "Required for connecting game controllers"
+      },
+      "beta": false
+    },
+    {
+      "name": "Bully: Anniversary Edition",
+      "bundleIdentifier": "com.rockstargames.bully",
+      "developerName": "Rockstar Games",
+      "version": "1.1",
+      "versionDate": "2023-12-20T00:00:00Z",
+      "versionDescription": "📚 Anniversary Edition Features:\n• Remastered visuals and textures\n• Enhanced lighting and shadows\n• Optimized for modern iOS devices",
+      "downloadURL": "https://dl.iosvizor.net/bully-anniversary-edition/Bully-Anniversary-Edition-v1-1.ipa",
+      "size": 2432696320,
+      "localizedDescription": "🏫 Rule the School! The cult classic returns with HD graphics, improved controls, and new content. Survive the chaos of Bullworth Academy!",
+      "iconURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/icons/Bully.png",
+      "tintColor": "FF8C00",
+      "bannerImageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/banners/bully-banner.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/bully1.jpg",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/bully2.jpg",
+        "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/screenshots/bully3.jpg"
+      ],
+      "permissions": {
+        "NSPhotoLibraryUsageDescription": "Allows saving in-game screenshots",
+        "NSMicrophoneUsageDescription": "Used for voice interactions during gameplay",
+        "NSLocalNetworkUsageDescription": "Required for local multiplayer features",
+        "NSBluetoothAlwaysUsageDescription": "Used for connecting external controllers"
+      },
+      "beta": false
     }
   ],
   "news": [
     {
-      "title": "New apps coming soon!",
+      "title": "New Apps Coming Soon!",
       "date": "2025-06-01",
-      "caption": "YouTube++ and Instagram++ in development 🔜",
-      "imageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/news/upcoming-banner.png",
-      "tintColor": "FF5F5F"
+      "caption": "Stay tuned for more premium apps and games.",
+      "tintColor": "00BFFF",
+      "imageURL": "https://raw.githubusercontent.com/K1ddH4z3/HazeBreak/main/news/upcoming-banner.png"
     }
   ]
 }
